@@ -14,7 +14,7 @@
 - [⚡ Dataset](#-dataset)  
 - [🛠️ Project Files](#️-project-files)  
 - [🚀 Quick Start](#-quick-start)  
-- [📊 Methodology](#-methodology)  
+
 
 ---
 
@@ -49,30 +49,4 @@ jupyter notebook "Retail Price.ipynb"
 
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-## 📊 Methodology
 
-Data Preprocessing
-
-Handle missing values
-
-Encode categorical features
-
-Normalize numerical values
-
-Exploratory Data Analysis (EDA)
-
-Correlation between price and demand
-
-Seasonal trends and product segmentation
-
-Modeling
-
-Regression models to predict demand vs price
-
-Optimization logic to maximize profit
-
-Evaluation
-
-Compare RMSE/MAE for models
-
-Final recommendation of price ranges
